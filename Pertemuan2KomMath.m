@@ -1,3 +1,6 @@
+clc
+clear
+
 % if...and
 % n = input ('nilai :  ') ;
 % if n >= 70 
@@ -67,6 +70,7 @@ for i = 1:10
         disp (i)
     end
 end
+
 
 
 
